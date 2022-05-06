@@ -1,0 +1,25 @@
+
+<!-- TODO: Multilingual links. Extract in to Strings.xml. -->
+
+<resources>
+    <string name="app_name">Zhuan Falun</string>
+    <string name="title_text">Zhuan Falun</string>
+    <string name="zhenShenRen_text">真 善 忍</string>
+
+    <string name="session9_button_text">9 luentoa:\n\naudio+video\nluennot</string>
+    <string name="latestArticles_button_text">Mestari Li:n\nviimeisimmät\nkirjoitukset</string>
+    <string name="exercises_button_text">Harjoitukset:\n\naudio+video</string>
+    <string name="gongNotification_button_text">Fazhen\n-\nAseta gongin\nkumahdusmuistutus</string>
+
+    <string name="background_image_content_desc">Background image</string>
+    <string name="github_button_content_desc">Github button</string>
+
+    <string name="settings_title_text">Fazhen - OFF | ON</string>
+    <string name="settings_description_text">Valitse yltä haluamiesi kumahdusmuistutusten ajat.\nGong kumahtaa kerran 5 min välein, yhteensä kolmesti.\nEnsimmäinen kumahdus 5 min ennen Fazhen aikaa.</string>
+    <string name="test_button_text">Soita testikumahdus</string>
+    <string name="zhuanFalunBookLink">https://www.falundafa.fi/kirjat/0/zhuan-falun-2012/</string>
+    <string name="nineSessionsLink">https://fi.falundafa.org/falun-dafa-video-audio-9session.html</string>
+    <string name="exercisesLink">https://fi.falundafa.org/falun-dafa-video-audio.html</string>
+    <string name="latestArticlesLink">https://en.minghui.org/cc/23/</string>
+    <string name="githubLink">https://github.com/TheJapsu1/Zhuan-Falun</string>
+</resources>
